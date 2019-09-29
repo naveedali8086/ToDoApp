@@ -1,0 +1,25 @@
+* {
+    --green: #28a745;
+    --red: #dc3545
+}
+
+.completed {
+    color: var(--green);
+}
+
+.completed:hover {
+    color: var(--green);
+}
+
+.incompleted {
+    color: var(--red);
+}
+
+.incompleted:hover {
+    color: var(--red);
+}
+
+.completed:active,
+.incompleted:active {
+    border: none;
+}
