@@ -2,7 +2,7 @@
 
 - Run 'git clone' command or download the project's zip 
 
-- Create database at local machine.
+- Create database (i.e. db_to_do_app) at local machine.
 
 - Set DB name, DB user & password in .env file or database.php configuration.
 
